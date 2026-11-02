@@ -18,3 +18,5 @@ Run the following command to execute the tests:
 
 ## Continuous Integration
 GitHub Actions automatically builds and tests the project whenever changes are pushed to the repository.
+
+GitHub Actions automatically verifies this project after each push.
